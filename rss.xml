@@ -4,8 +4,15 @@
         <description><![CDATA[Cellphone MFA]]></description>
         <link>https://thegrid.ai/cellphone-mfa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 04:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 04:16:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cellphone-mfa/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Power. Erodes digital artifacts. ]]></title>
+            <description><![CDATA[<article><h1>Power. Erodes digital artifacts. </h1><p>© Marinna B. Guzy 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7cb6616-6b22-443f-877f-23ce03f417d0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/cellphone-mfa/power-erodes-digital-artifacts/index.html</link>
+            <guid isPermaLink="false">f93981b0-e288-47c3-9ff2-be755591457c</guid>
+            <pubDate>Tue, 30 Aug 2016 04:16:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How you remembered me?]]></title>
             <description><![CDATA[<article><h1>How you remembered me?</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/444d8784-8cc4-4517-a40d-7bd7c0bcb1a2.jpg"></article>]]></description>
@@ -47,13 +54,6 @@
             <link>https://thegrid.ai/cellphone-mfa/pass-me-by-in-the-dark-night/index.html</link>
             <guid isPermaLink="false">306349cb-76de-4223-b3a3-0e0e59a11ef2</guid>
             <pubDate>Tue, 30 Aug 2016 03:57:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Power. Erodes digital artifacts. ]]></title>
-            <description><![CDATA[<article><h1>Power. Erodes digital artifacts. </h1><p>Power. Erodes digital artifacts.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7cb6616-6b22-443f-877f-23ce03f417d0.jpg"></article>]]></description>
-            <link>https://thegrid.ai/cellphone-mfa/power-erodes-digital-artifacts/index.html</link>
-            <guid isPermaLink="false">f93981b0-e288-47c3-9ff2-be755591457c</guid>
-            <pubDate>Tue, 30 Aug 2016 03:55:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
