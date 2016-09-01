@@ -1,0 +1,14 @@
+layout_spectrum: 0.9810690470039845
+typography_spectrum: 0.6482107958290726
+color:
+  brandStrength: 0.4712866214103997
+  lightness: 0.41008617682382464
+  saturation: 0.871274066856131
+  rhythmicContrast: 0.9594112890772521
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Cellphone MFA
