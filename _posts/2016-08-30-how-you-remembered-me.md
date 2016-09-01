@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-30T03:52:10.672Z'
+datePublished: '2016-08-30T04:01:56.946Z'
+sourcePath: _posts/2016-08-30-how-you-remembered-me.md
 author: []
 via: {}
-dateModified: '2016-08-30T03:51:36.877Z'
-title: ''
+dateModified: '2016-08-30T04:01:56.212Z'
+title: How you remembered me?
 publisher: {}
-description: How you remembered me?
+description: ''
 starred: false
-sourcePath: _posts/2016-08-30-how-you-remembered-me.md
 inFeed: true
 hasPage: true
 inNav: false
