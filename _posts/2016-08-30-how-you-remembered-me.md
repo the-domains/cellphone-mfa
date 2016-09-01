@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-30T04:01:56.946Z'
+datePublished: '2016-08-30T04:16:13.254Z'
 sourcePath: _posts/2016-08-30-how-you-remembered-me.md
 author: []
 via: {}
-dateModified: '2016-08-30T04:01:56.212Z'
+dateModified: '2016-08-30T04:16:12.723Z'
 title: How you remembered me?
 publisher: {}
 description: ''
@@ -16,7 +16,4 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-How you remembered me?
-
-(2016)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/444d8784-8cc4-4517-a40d-7bd7c0bcb1a2.jpg)
